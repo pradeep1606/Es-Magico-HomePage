@@ -1,20 +1,15 @@
+# Es Magico Homepage
 
-Es Magico Homepage
+## Introduction
+
 Welcome to Es Magico Homepage! This project is a homepage built using React and Vite, aiming to provide a magical experience to its users.
 
-Table of Contents
- - Introduction
- - Installation 
+## Installation
 
-Introduction
-Es Magico Homepage built with React, a popular JavaScript library for building user interfaces, and Vite, a fast build tool for modern web development.
+To set up Es Magico Homepage locally, follow these simple steps:
 
-Installation
- To get started with Es Magico Homepage, follow these steps:
-
- 1.Clone this repository: git clone https://github.com/pradeep1606/Es-Magico-HomePage.git
- 2.Navigate to the project directory: cd Es-Magico-HomePage
- 3.Install dependencies: npm install
- 4.Start the development server: npm run dev
- 5.Open your browser and navigate to http://localhost:5153/ to view the homepage.
-   Usage
+1. Clone this repository to your local machine using `git clone https://github.com/pradeep1606/Es-Magico-HomePage.git`
+2. Navigate to the project directory: `cd Es-Magico-HomePage`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to `http://localhost:5173` to experience the magic!
